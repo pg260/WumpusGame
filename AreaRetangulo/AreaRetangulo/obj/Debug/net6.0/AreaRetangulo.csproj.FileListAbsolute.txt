@@ -1,0 +1,15 @@
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/AreaRetangulo
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/AreaRetangulo.deps.json
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/AreaRetangulo.runtimeconfig.json
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/AreaRetangulo.dll
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/ref/AreaRetangulo.dll
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/bin/Debug/net6.0/AreaRetangulo.pdb
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.csproj.AssemblyReference.cache
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.AssemblyInfoInputs.cache
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.AssemblyInfo.cs
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.csproj.CoreCompileInputs.cache
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.dll
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/ref/AreaRetangulo.dll
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.pdb
+/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/obj/Debug/net6.0/AreaRetangulo.genruntimeconfig.cache
