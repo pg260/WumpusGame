@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6gLEu+/DleSKp48VJmdb/q6FE0mVkCpBvlyly1nhVVk5v0b+7LxpcLWzdp20fU3nZqM9t2MmEI/FKu/Vp/FDvQ==",
+  "dgSpecHash": "YDiFK5VXvfPh1q/TU3WTAp+SDhNaC0nlLprHi+J5xnykKndCEvj9wUAbgiWpRDouha+dD8+nc5P7rUEbPBMjKQ==",
   "success": true,
-  "projectFilePath": "/home/pg/Projetos/Orientada/ExerciciosPoo/AreaRetangulo/AreaRetangulo/AreaRetangulo.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\GUSTAVO\\Desktop\\WumpusGame\\AreaRetangulo\\AreaRetangulo\\AreaRetangulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GUSTAVO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\GUSTAVO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\GUSTAVO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\GUSTAVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
